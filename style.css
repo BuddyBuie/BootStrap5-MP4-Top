@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+.row {
+  text-align: center;
+}
+
+.overLay {
+  position: absolute;
+  width: 100%    !important;
+  color: red;
+  margin-top: 2%;
+  text-align: center;
+}
